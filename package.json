@@ -25,7 +25,7 @@
   "license": "Apache-2.0",
   "homepage": "https://github.com/postmanlabs/code-generators",
   "dependencies": {
-    "async": "3.2.2",
+    "async": "3.2.6",
     "path": "0.12.7",
     "postman-collection": "4.5.0",
     "shelljs": "0.8.5"
