@@ -27,7 +27,7 @@
   "dependencies": {
     "async": "3.2.6",
     "path": "0.12.7",
-    "postman-collection": "4.5.0",
+    "postman-collection": "5.0.0",
     "shelljs": "0.9.0"
   },
   "devDependencies": {
