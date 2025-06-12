@@ -28,7 +28,7 @@
   "dependencies": {},
   "devDependencies": {
     "form-data": "4.0.2",
-    "node-powershell": "4.0.0"
+    "node-powershell": "5.0.1"
   },
   "engines": {
     "node": ">=8"
