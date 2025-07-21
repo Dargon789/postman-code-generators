@@ -27,7 +27,7 @@
   "homepage": "https://github.com/postmanlabs/code-generators/tree/master/codegens/powershell-restmethod",
   "dependencies": {},
   "devDependencies": {
-    "form-data": "4.0.2",
+    "form-data": "4.0.4",
     "node-powershell": "4.0.0"
   },
   "engines": {
